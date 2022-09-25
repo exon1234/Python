@@ -2,9 +2,9 @@
 
 ```
 sudo service mysql status #查看状态
-sudo servive mysql start #启动
-sudo servive mysql stop		#停止
-sudo servive mysql restart #重启
+sudo service mysql start #启动
+sudo service mysql stop		#停止
+sudo service mysql restart #重启
 mysql -uname -ppswd #登录
 ```
 
